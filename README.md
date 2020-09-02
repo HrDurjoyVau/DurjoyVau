@@ -18,13 +18,13 @@ Pip2 install mechanize
 
 Pkg install git 
 
-git clone https://github.com/
+git clone https://github.com/https://github.com/HrDurjoyVau/DurjoyVau.py
 
-cd xidi
+cd DurjoyVau.py
 
 ls 
 
-Python2 xp.py
+Python2 Durjoy.py
 
 # Note:
 -Don't try to edit or modify this tool.

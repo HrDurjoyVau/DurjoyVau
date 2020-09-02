@@ -24,7 +24,7 @@ cd DurjoyVau.py
 
 ls 
 
-Python2 Durjoy.py
+Python2 DurjoyVau.py
 
 # Note:
 -Don't try to edit or modify this tool.

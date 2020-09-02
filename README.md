@@ -7,14 +7,23 @@ This tool works on both rooted Android device and Non-rooted Android device.
 
 # All commands for install this tool
 Pkg update && pkg upgrade
+
 Pkg install python
+
 Pkg install python2
+
 Pip2 install requests
+
 Pip2 install mechanize 
+
 Pkg install git 
+
 git clone https://github.com/
+
 cd xidi
+
 ls 
+
 Python2 xp.py
 
 # Note:

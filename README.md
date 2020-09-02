@@ -18,9 +18,9 @@ Pip2 install mechanize
 
 Pkg install git 
 
-git clone https://github.com/https://github.com/HrDurjoyVau/DurjoyVau.py
+git clone https://github.com/https://github.com/HrDurjoyVau/DurjoyVau
 
-cd DurjoyVau.py
+cd DurjoyVau
 
 ls 
 
